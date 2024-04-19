@@ -1,6 +1,6 @@
 # Giphy Search App
 
-Host URL: 
+Host URL: https://kennethmontgomery119.github.io/Giphy-Search/
 
 Searches 1-30 animated gifs based on search topic 
 
